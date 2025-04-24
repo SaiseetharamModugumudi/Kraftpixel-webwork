@@ -1,0 +1,69 @@
+body{
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    color: #333;
+    background-color: #fdfdfd;
+    line-height: 1.6;
+}
+.hero {
+    text-align: center;
+    padding: 2rem 1rem;
+    background-color: #19cebf;
+}
+.hero h1 {
+    font-size: 1.8rem;
+    margin-bottom: 0.5rem;
+}
+.hero p {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+}
+.hero button {
+    padding: 0.6rem 1.2rem;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.team {
+    padding: 2rem 1rem;
+}
+.team h2{
+    text-align: center;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    background-color: rgb(232, 239, 239);
+}
+.member {
+    text-align: center;
+    background-color: rgb(234, 241, 243);
+}
+.member img{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+.test {
+    padding: 2rem 1rem;
+    background-color: #0db344;
+
+}
+.test h2 {
+    text-align: center;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+
+}
+.test-card {
+    background: rgb(25, 162, 125);
+    padding: 1rem;
+    margin: 0 auto;
+    max-width: 400px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+.last {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center;
+}
